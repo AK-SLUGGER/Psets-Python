@@ -1,1 +1,1 @@
- swap the casing of a given string at specified at the specified indices
+Replace every occurence of the chareater "a" with "b" 
